@@ -11,3 +11,4 @@ Use only terminal commands for git (you can use VS Code for editing if you want!
 5. Create a new branch, add a commit to that branch and push it
 
 6. In the **thread** of this post, add a link to your repository
+https://github.com/wadeagbo/Just-an-example-repo
